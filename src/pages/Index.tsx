@@ -305,7 +305,6 @@ const Index = () => {
               <a href="#" className="hover:text-cyan-400 transition-colors">Гарантия</a>
               <a href="#" className="hover:text-cyan-400 transition-colors">Контакты</a>
             </div>
-            <p className="text-sm">© 2024 Rift Keyboard. Все права защищены.</p>
           </div>
         </footer>
       </div>
